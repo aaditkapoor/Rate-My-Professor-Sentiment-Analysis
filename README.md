@@ -1,0 +1,2 @@
+# Rate-My-Professor-Sentiment-Analysis
+Tired of reading the reviews of each and every professor? We bring you the solution to your problem.  Our aim is to use Machine Learning to classify each review of a particular professor as POSITIVE (1) or NEGATIVE(0).  This is an app that performs sentiment analysis on each review of a given professor and then counts the number of positives and negatives and neutrals to get a tentative classified response.
