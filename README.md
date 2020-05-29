@@ -34,3 +34,9 @@ Examples:
 - Set a database collection system and post it on Kaggle
 - Improve the user interface
 
+# More Info
+• https://www.linkedin.com/posts/aadit-kapoor-263504143_ratemyprofessorscom-find-and-rate-your-activity-6563942463843733505-Cvnf 
+
+# LICENSE
+- See LICENSE.md for more info.
+
